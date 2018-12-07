@@ -1,10 +1,12 @@
 # AIFootballManager
 Using data and machine learning to analyze football players. 
 
-Contributors:
-Baturalp Yalcin
-Thomas Mecattaf
-Mohnish Chakravarti
+<b>Contributors:</b>
+<ul>
+  <li>Baturalp Yalcin</li>
+  <li>Thomas Mecattaf</li>
+  <li>Mohnish Chakravarti</li>
+  </ul>
 
 
 There are 3 notebooks (one for scraping, one for basic data analysis and one for machine learning), and 3 HTML files that explain all of these notebooks and our project in more detail
