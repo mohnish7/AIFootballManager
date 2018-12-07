@@ -11,7 +11,9 @@ Using data and machine learning to analyze football players.
 
 
 <b>Description:</b>
-All of us play FIFA career mode on our xbox almost every day. In this project we analyze in-game FIFA ratings and real-world performance for EPL players from the 2015/16, 2016/17, 2017/18, 2018/19 seasons using basic machine learning techniques such as linear regression, random forests and neural networks. There are 3 notebooks (one for scraping, one for basic data analysis and one for machine learning), and 3 HTML files that explain all of these notebooks and our project in more detail
+All of us play FIFA career mode on our xbox almost every day. In this project we analyze in-game FIFA ratings and real-world performance for EPL players from the 2015/16, 2016/17, 2017/18, 2018/19 seasons using basic machine learning techniques such as linear regression, random forests and neural networks. 
+
+There are 3 notebooks (one for scraping, one for basic data analysis and one for machine learning), and 3 HTML files that explain all of these notebooks and our project in more detail
 
 
 <b>Some motivations for doing this project are:</b>
